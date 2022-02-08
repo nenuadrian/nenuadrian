@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nenuadrian/nenuadrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +15,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=nenuadrian&show_icons=true&theme=gotham" alt="github stats" width="45%;" style="float:right; margin:20px;"/>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenuadrian&layout=compact&theme=gotham)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenuadrian&theme=gotham)
