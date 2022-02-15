@@ -23,6 +23,13 @@ Here are some ideas to get you started:
  <li><a href="https://www.linkedin.com/in/nenuadrian/" target="_blank">LinkedIn - let's connect</a></li>
  <li><a href="https://medium.com/@adriannenu" target="_blank">Medium - my articles</a></li>
  <li><a href="https://500px.com/p/cardinal_design" target="_blank">500px - my photography</a></li>
+ <li><a href="https://www.codingame.com/profile/6c21522c3d2923dd892fd092d98b5aa06541664" target="_blank">Codingame</a></li>
+ </ul>
+ 
+  <h5>Some Projects</h5>
+ <ul>
+ <li><a href="http://secretrepublic.nenuadrian.com/" target="_blank">Secret Republic - browser based hacker-themed game</a></li>
+ <li><a href="http://secretrepublic-v3.nenuadrian.com/" target="_blank">Secret Republic V4 - browser based hacker-themed game</a></li>
  </ul>
 
  <h5>Stats</h5>
