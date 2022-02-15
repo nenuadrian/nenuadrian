@@ -18,6 +18,7 @@ My strongest belief?
 <p><em>“The computer programmer is a creator of universes for which he alone is the lawgiver. No playwright, no stage director, no emperor, however powerful, has ever exercised such absolute authority to arrange a stage or field of battle and to command such unswervingly dutiful actors or troops.” ~ Joseph Weizenbaum
  </em></p>
  
+ <h5>Connect</h5>
  <ul>
  <li><a href="https://www.linkedin.com/in/nenuadrian/" target="_blank">LinkedIn - let's connect</a></li>
  <li><a href="https://medium.com/@adriannenu" target="_blank">Medium - my articles</a></li>
