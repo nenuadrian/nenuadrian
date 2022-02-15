@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <h5>Some Projects</h5>
  <ul>
  <li><a href="http://secretrepublic.nenuadrian.com/" target="_blank">Secret Republic - browser based hacker-themed game</a></li>
- <li><a href="http://secretrepublic-v3.nenuadrian.com/" target="_blank">Secret Republic V4 - browser based hacker-themed game</a></li>
+ <li><a href="http://secretrepublic-v3.nenuadrian.com/" target="_blank">Secret Republic V3 - browser based hacker-themed game</a></li>
  </ul>
 
  <h5>Stats</h5>
