@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My strongest belief?
+ <h5>My strongest belief?</h5>
 
 <p><em>“The computer programmer is a creator of universes for which he alone is the lawgiver. No playwright, no stage director, no emperor, however powerful, has ever exercised such absolute authority to arrange a stage or field of battle and to command such unswervingly dutiful actors or troops.” ~ Joseph Weizenbaum
  </em></p>
@@ -25,6 +25,7 @@ My strongest belief?
  <li><a href="https://500px.com/p/cardinal_design" target="_blank">500px - my photography</a></li>
  </ul>
 
+ <h5>Stats</h5>
 
 <img src="https://github-readme-stats.vercel.app/api?username=nenuadrian&show_icons=true&theme=gotham" alt="github stats" width="45%;" style="float:right; margin:20px;"/>
 
