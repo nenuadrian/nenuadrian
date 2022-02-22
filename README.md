@@ -20,8 +20,10 @@ Here are some ideas to get you started:
  
  <h5>Connect</h5>
  <ul>
+ <li><a href="https://nenuadrian.com" target="_blank">My Website - nenuadrian.com</a></li>
  <li><a href="https://www.linkedin.com/in/nenuadrian/" target="_blank">LinkedIn - let's connect</a></li>
  <li><a href="https://medium.com/@adriannenu" target="_blank">Medium - my articles</a></li>
+ <li><a href="https://www.instagram.com/cardinal.photograph" target="_blank">Instagram - my photography</a></li>
  <li><a href="https://500px.com/p/cardinal_design" target="_blank">500px - my photography</a></li>
  <li><a href="https://www.codingame.com/profile/6c21522c3d2923dd892fd092d98b5aa06541664" target="_blank">Codingame</a></li>
  </ul>
