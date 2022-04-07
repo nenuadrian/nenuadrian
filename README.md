@@ -38,4 +38,12 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=nenuadrian&show_icons=true&theme=gotham" alt="github stats" width="45%;" style="float:right; margin:20px;"/>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenuadrian&theme=gotham)
+<h5>Top Languages</h5>
+ <ul>
+ <li>Scala</li>
+ <li>Javascript</li>
+ <li>Java</li>
+ <li>C#/.net</li>
+ <li>SQL</li>
+ <li>PHP</li>
+ </ul>
