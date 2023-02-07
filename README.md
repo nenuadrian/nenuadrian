@@ -43,6 +43,8 @@ Here are some ideas to get you started:
  <li>Scala</li>
  <li>Javascript</li>
  <li>Java</li>
+ <li>C++</li>
+ <li>Python</li>
  <li>C#/.net</li>
  <li>SQL</li>
  <li>PHP</li>
