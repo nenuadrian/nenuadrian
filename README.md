@@ -22,14 +22,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nenuadrian&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<h5>Top Languages</h5>
- <ul>
- <li>Scala</li>
- <li>Javascript</li>
- <li>Java</li>
- <li>C++</li>
- <li>Python</li>
- <li>C#/.net</li>
- <li>SQL</li>
- <li>PHP</li>
- </ul>
+<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true"/>
+
