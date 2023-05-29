@@ -20,6 +20,9 @@
  <li><a href="http://secretrepublic.nenuadrian.com/" target="_blank">Secret Republic - browser based hacker-themed game</a></li>
  <li><a href="http://secretrepublic-v3.nenuadrian.com/" target="_blank">Secret Republic V3 - browser based hacker-themed game</a></li>
  </ul>
+ 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nenuadrian&repo=project-omega)](https://github.com/nenuadrian/project-omega)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=nenuadrian&show_icons=true&theme=gotham" alt="github stats" width="45%;" style="float:right; margin:20px;"/>
 
