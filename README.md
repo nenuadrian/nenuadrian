@@ -18,9 +18,9 @@
  <li><a href="http://secretrepublic-v3.nenuadrian.com/" target="_blank">Secret Republic V3 - browser based hacker-themed game</a></li>
  </ul>
 
- <h5>Stats</h5>
-
 <img src="https://github-readme-stats.vercel.app/api?username=nenuadrian&show_icons=true&theme=gotham" alt="github stats" width="45%;" style="float:right; margin:20px;"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nenuadrian&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <h5>Top Languages</h5>
  <ul>
