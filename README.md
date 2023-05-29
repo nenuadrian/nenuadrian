@@ -22,6 +22,7 @@
  </ul>
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nenuadrian&repo=project-omega)](https://github.com/nenuadrian/project-omega)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nenuadrian&repo=excaldraw-angular)](https://github.com/nenuadrian/project-omega)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=nenuadrian&show_icons=true&theme=gotham" alt="github stats" width="45%;" style="float:right; margin:20px;"/>
