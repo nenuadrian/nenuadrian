@@ -21,7 +21,6 @@
  <li><a href="http://secretrepublic-v3.nenuadrian.com/" target="_blank">Secret Republic V3 - browser based hacker-themed game</a></li>
  </ul>
  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nenuadrian&repo=project-omega)](https://github.com/nenuadrian/project-omega)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nenuadrian&repo=excalidraw-angular)](https://github.com/nenuadrian/excalidraw-angular)
 
 
