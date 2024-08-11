@@ -10,9 +10,7 @@
  <ul>
  <li><a href="https://nenuadrian.com" target="_blank">My Website - nenuadrian.com</a></li>
  <li><a href="https://www.linkedin.com/in/nenuadrian/" target="_blank">LinkedIn - let's connect</a></li>
- <li><a href="https://medium.com/@adriannenu" target="_blank">Medium - my articles</a></li>
  <li><a href="https://www.instagram.com/cardinal.photograph" target="_blank">Instagram - my photography</a></li>
- <li><a href="https://500px.com/p/cardinal_design" target="_blank">500px - my photography</a></li>
  </ul>
  
 
