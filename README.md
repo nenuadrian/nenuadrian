@@ -4,7 +4,12 @@
  </em></p>
  
 <a href="https://nenuadrian.com" target="_blank">nenuadrian.com</a>
- 
+
+## Conway's Game of Life
+<!-- LIFE-START -->
+<!-- LIFE-END -->
+
+ ## Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=nenuadrian&show_icons=true&theme=gotham" alt="github stats" width="45%;" style="float:right; margin:20px;"/>
 
