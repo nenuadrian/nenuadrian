@@ -6,6 +6,11 @@
 <a href="https://nenuadrian.com" target="_blank">nenuadrian.com</a>
 
 ## Conway's Game of Life
+
+<small><em>Updates daily</em></small>
+
+[![Update README with Game of Life](https://github.com/nenuadrian/nenuadrian/actions/workflows/update_readme.yml/badge.svg)](https://github.com/nenuadrian/nenuadrian/actions/workflows/update_readme.yml)
+
 <!-- LIFE-START -->
 ```
 ⬜⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬜⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬜⬜
