@@ -3,9 +3,7 @@
 <p><em>“The computer programmer is a creator of universes for which he alone is the lawgiver. No playwright, no stage director, no emperor, however powerful, has ever exercised such absolute authority to arrange a stage or field of battle and to command such unswervingly dutiful actors or troops.” ~ Joseph Weizenbaum
  </em></p>
  
- <ul>
- <li><a href="https://nenuadrian.com" target="_blank">nenuadrian.com</a></li>
-</ul>
+<a href="https://nenuadrian.com" target="_blank">nenuadrian.com</a>
  
 
 <img src="https://github-readme-stats.vercel.app/api?username=nenuadrian&show_icons=true&theme=gotham" alt="github stats" width="45%;" style="float:right; margin:20px;"/>
