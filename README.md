@@ -36,11 +36,4 @@
 ```
 <!-- LIFE-END -->
 
- ## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=nenuadrian&show_icons=true&theme=gotham" alt="github stats" width="45%;" style="float:right; margin:20px;"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nenuadrian&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true"/>
 
