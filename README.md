@@ -13,7 +13,7 @@ I have since returned to the UK to pursue a PhD in Computer Science at the Unive
 
 <p>
 
-Beyond research, I am involved in organisations such as IEEE, BCS, and the Society of Research Software Engineering, contributing to mentorship, governance, and community-building efforts that support sustainable research software and open collaboration.
+Beyond research, I am involved in organisations such as UKYA, IEEE, BCS, and the Society of Research Software Engineering, contributing to mentorship, governance, and community-building efforts that support sustainable research software and open collaboration.
 </p>
 <p><em>“The computer programmer is a creator of universes for which he alone is the lawgiver. No playwright, no stage director, no emperor, however powerful, has ever exercised such absolute authority to arrange a stage or field of battle and to command such unswervingly dutiful actors or troops.” ~ Joseph Weizenbaum
  </em></p>
