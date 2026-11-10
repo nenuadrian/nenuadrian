@@ -1,0 +1,52 @@
+name: Build profile
+
+# Builds the README's images from YouTube and Substack and publishes them to the
+# `output` branch, as its only commit, so `main` changes only when it's edited.
+on:
+  schedule:
+    - cron: '17 */6 * * *' # every six hours, off the hour
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch the last build
+        run: |
+          mkdir -p "$RUNNER_TEMP/previous"
+          if git fetch --depth=1 origin output; then
+            git archive FETCH_HEAD | tar -x -C "$RUNNER_TEMP/previous"
+          fi
+
+      - name: Build
+        run: python scripts/build.py --previous "$RUNNER_TEMP/previous" --out "$RUNNER_TEMP/out"
+
+      - name: Publish to the output branch
+        run: |
+          if diff -r "$RUNNER_TEMP/previous" "$RUNNER_TEMP/out" > /dev/null; then
+            echo "Nothing changed since the last build."
+            exit 0
+          fi
+          git switch --orphan output
+          cp -R "$RUNNER_TEMP/out/." .
+          git add -A
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "Build profile images"
+          git push --force origin output
