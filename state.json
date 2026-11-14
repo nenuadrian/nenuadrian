@@ -1,0 +1,39 @@
+{
+  "episodes": {
+    "mvgpt": {
+      "number": 33,
+      "published": "2026-11-14",
+      "title": "Sparse autoencoder features inside our GPT",
+      "video": "34t5PYpZ1W0"
+    },
+    "nanommo": {
+      "number": 65,
+      "published": "2026-11-14",
+      "title": "From git clone to playing a C++ MMORPG",
+      "video": "T44PgdI9o48"
+    },
+    "smollergraph": {
+      "number": 16,
+      "published": "2026-11-06",
+      "title": "API docs from comments we already wrote",
+      "video": "2XMVboyMQT4"
+    }
+  },
+  "posts": [
+    {
+      "published": "2026-06-10",
+      "title": "Training a 14M GPT to Generate Children Stories in 20 Minutes: Pretraining, SFT, and Direct Preference Optimization",
+      "url": "https://adriannenu.substack.com/p/training-a-14m-gpt-to-generate-children"
+    },
+    {
+      "published": "2026-02-26",
+      "title": "Could Actor Systems Be All We Need for Agentic AI Workflows",
+      "url": "https://adriannenu.substack.com/p/actors-systems-are-all-you-need-for"
+    },
+    {
+      "published": "2026-02-25",
+      "title": "Is Computer Science a Worthwhile Pursuit Today?",
+      "url": "https://adriannenu.substack.com/p/is-computer-science-a-worthwhile"
+    }
+  ]
+}
